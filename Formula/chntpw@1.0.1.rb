@@ -1,4 +1,4 @@
-class Chntpw < Formula
+class ChntpwAT101 < Formula
   desc "The Offline NT Password Editor"
   homepage "https://github.com/minacle/chntpw"
   url "https://github.com/minacle/chntpw/archive/refs/tags/chntpw/1.0.1.tar.gz"
